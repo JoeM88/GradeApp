@@ -940,7 +940,6 @@ class AveragePanel  extends JPanel implements ActionListener
 			 
 		}
 	}
-
 }
 
 
